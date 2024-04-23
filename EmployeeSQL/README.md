@@ -2,7 +2,7 @@
 This challenge involves designing a database and analyzing employee data for the fictional company Pewlett Hackard. The data for personel employed by the company in the 1980s and 1990s is contained in six .csv files. To conduct research on these employees, the files will be imported into a SQL database as tables. Relationships will then be established between the tables so they can be queryed.
 
 A EDR showing the table relationships was created using the website app.quickdatabasediagrams.com.
-[image] ERD_PHackard_2_DB.png
+https://github.com/Karall0k/sql-challenge/blob/main/EmployeeSQL/ERD_PHackard_2_DB.png
 
 Next, the database schema was set up in SQL and the six .csv files containing employee data were imported into the tables. The code for the schema is found in file schema_PHackard_2_DB.sql.
 
